@@ -149,26 +149,7 @@ const contributions = [
     description: "Mobile-first React portfolio with Tailwind CSS, featuring animated transitions, project filters, and a downloadable resume. Built for performance, clarity, and impact."
   }
 ];
-```
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://aakashdeepfoundation.netlify.app/">Aakashdeep Foundation (NGO Website)</a></td>
-    <td>Bilingual and accessible site featuring donor/contact forms and program showcases that increased community engagement and inquiries.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nitin-dube/SAMS">SAMS</a></td>
-    <td>A full‑stack web app for managing student attendance with role‑based views for students and faculty. Backend is Flask with Firestore; frontend is React.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nitin-dube/Portfolio">My Portfolio</a></td>
-    <td>Mobile-first React portfolio with Tailwind CSS, featuring animated transitions, project filters, and a downloadable resume. Built for performance, clarity, and impact.</td>
-  </tr>
-</table>
 
 ```typescript
 // Thanks for visiting my profile!
