@@ -1,154 +1,26 @@
-# Nitin Kumar Dubey
+# 💫 About Me:
+🔭 I’m currently working on :<br>Building scalable full-stack applications and AI-driven platforms, including an AI-powered stock monitoring app and a real-time human emotion detection system.<br><br>👯 I’m looking to collaborate on :<br>Web development, SaaS platforms, AI/ML projects, open-source contributions, and impactful tech initiatives.<br><br>🤝 I’m looking for help with :<br>Advanced backend architecture, system design, DevOps, and large-scale database optimization.<br><br>🌱 I’m currently learning :<br>Next.js · TypeScript · Cloud Computing (AWS/GCP) · Advanced React Patterns · Machine Learning deployment.<br><br>💬 Ask me about :<br>Full-stack development, REST APIs, Python, React, Node.js, Flask, MongoDB/MySQL, performance optimization, AI integration.<br><br>⚡ Fun fact :<br>I love converting complex problems into practical tech solutions and I enjoy building products that create real-world impact 🚀
 
-```typescript
-const profile = {
-  name: "Nitin Kumar Dubey",
-  bio: "I'm a results-driven final-year Computer Science student specializing in Data Science, Machine Learning, and Cloud Computing, with strong hands-on experience building full‑stack web applications and ML prototypes. I enjoy turning data and models into products that people use — from real-time vision systems to responsive web portals.",
-  learning: "Advance my skills in Rust and WebAssembly to build faster, more efficient web applications
 
-Apply fairness, robustness, and explainability frameworks to real-world ML systems for responsible AI deployment
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/d_nitnn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitinkdubey/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinkdubey02@gmail.com) 
 
-Master prompt engineering within Vertex AI, optimizing generative workflows for ethical and practical impact
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=scaleway&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat&logo=CrateDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=flat&logo=Airbnb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nitin-dube&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nitin-dube&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-dube&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Collaborate on open-source projects that promote cloud-native ML deployment and AI governance best practices",
-  interests: "Building full-stack applications that blend data science with intuitive UI/UX design
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Exploring machine learning,neural networks,and real-time vision systems
+---
+[![](https://visitcount.itsvg.in/api?id=nitin-dube&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Designing scalable cloud architectures and deploying robust ML models
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Contributing to open-source projects that promote ethical and responsible AI
 
-Writing and reading tech blogs to stay ahead of emerging trends
-
-Experimenting with prompt engineering and generative AI for practical impact
-
-Mapping AI governance frameworks and stakeholder roles for trustworthy deployment",
-  skills: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "MySQL",
-    "Django",
-    "MongoDB",
-    "Docker",
-    "GitHub Actions",
-    "AWS",
-    "NumPy",
-    "Pandas",
-    "Scikit-Learn",
-    "Kotlin",
-    "Python",
-    "C++",
-    "C#"
-  ],
-}
-```
-
-## 🌱 I'm currently learning
-
-Advance my skills in Rust and WebAssembly to build faster, more efficient web applications
-
-Apply fairness, robustness, and explainability frameworks to real-world ML systems for responsible AI deployment
-
-Master prompt engineering within Vertex AI, optimizing generative workflows for ethical and practical impact
-
-Collaborate on open-source projects that promote cloud-native ML deployment and AI governance best practices
-
-## 👀 I'm interested in
-
-Building full-stack applications that blend data science with intuitive UI/UX design
-
-Exploring machine learning, neural networks, and real-time vision systems
-
-Designing scalable cloud architectures and deploying robust ML models
-
-Contributing to open-source projects that promote ethical and responsible AI
-
-Writing and reading tech blogs to stay ahead of emerging trends
-
-Experimenting with prompt engineering and generative AI for practical impact
-
-Mapping AI governance frameworks and stakeholder roles for trustworthy deployment
-
-## 💻 Tech Stack
-
-```json
-{
-  "frontend": [
-    "React",
-    "Next.js"
-  ],
-  "backend": [
-    "Node.js",
-    "MySQL",
-    "Django",
-    "MongoDB"
-  ],
-  "devops": [
-    "Docker",
-    "GitHub Actions",
-    "AWS"
-  ],
-  "ai/ml": [
-    "NumPy",
-    "Pandas",
-    "Scikit-Learn"
-  ],
-  "mobile": [
-    "Kotlin"
-  ],
-  "languages": [
-    "Python",
-    "C++",
-    "C#"
-  ]
-}
-```
-
-## 🌐 Socials
-
-```javascript
-const socials = {
-  github: "nitin-dube",
-  linkedin: "nitinkdubey",
-  instagram: "dube_nitn",
-}
-```
-
-<div>
-<a href="https://github.com/nitin-dube"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="www.linkedin.com/in/nitinkdubey"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/dube_nitn"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-</div>
-
-## 📫 How to reach me
-
-```javascript
-const contact = {
-  email: "nitinkdubey02@gmail.com",
-  phone: "+919835736553",
-}
-```
-
-## 🚀 Open Source Contributions
-
-```javascript
-const contributions = [
-  {
-    project: "Aakashdeep Foundation (NGO Website)",
-    link: "https://aakashdeepfoundation.netlify.app/",
-    description: "Bilingual and accessible site featuring donor/contact forms and program showcases that increased community engagement and inquiries."
-  },
-  {
-    project: "SAMS",
-    link: "https://github.com/nitin-dube/SAMS",
-    description: "A full‑stack web app for managing student attendance with role‑based views for students and faculty. Backend is Flask with Firestore; frontend is React."
-  },
-  {
-    project: "My Portfolio",
-    link: "https://github.com/nitin-dube/Portfolio",
-    description: "Mobile-first React portfolio with Tailwind CSS, featuring animated transitions, project filters, and a downloadable resume. Built for performance, clarity, and impact."
-  }
-];
 
 
 ```typescript
